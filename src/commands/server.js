@@ -9,4 +9,4 @@ module.exports = {
         const memberCount = interaction.guild.memberCount;
         await interaction.reply(`Le serveur s'appelle ${serverName} et il y a ${memberCount} membres.`);
     },
-}
+};
